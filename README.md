@@ -5,15 +5,15 @@
 
 <div id="header">  
 <div id="badges">
-    <a href="https://stackoverflow.com/users/6156635/javapocalypse?tab=profile">
+    <a href="[https://stackoverflow.com/users/6156635/javapocalypse?tab=profile](https://stackoverflow.com/users/9478678/mubeen-muhammad-siddiq)">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/javapocalypse/">
+  <a href="[https://www.linkedin.com/in/javapocalypse/](https://www.linkedin.com/in/mubeenkhaaan/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/javapocalypse">
+<!--   <a href="https://www.youtube.com/c/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
 </div>
 </div>
 
