@@ -5,10 +5,10 @@
 
 <div id="header">  
 <div id="badges">
-    <a href="[https://stackoverflow.com/users/6156635/javapocalypse?tab=profile](https://stackoverflow.com/users/9478678/mubeen-muhammad-siddiq)">
+    <a href="[https://stackoverflow.com/users/6156635/mubeenkhaaan?tab=profile](https://stackoverflow.com/users/9478678/mubeen-muhammad-siddiq)">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/javapocalypse/](https://www.linkedin.com/in/mubeenkhaaan/)">
+  <a href="[https://www.linkedin.com/in/mubeenkhaaan/](https://www.linkedin.com/in/mubeenkhaaan/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/c/">
@@ -19,7 +19,7 @@
 
 
 ## About Me
-+ I am a Full Stack Engineer currently working at **[SkySoftTech](https://skysofttech.net/)** 🚀
++ I am a Production Head at **[SkySoftTech](https://skysofttech.net/)** 🚀
 + I also have experience in Python , Php , Full Stack Applications , Data Engineering , Trading Indicators ⚡
 + Web 3.0 enthusiast 🌐
 
