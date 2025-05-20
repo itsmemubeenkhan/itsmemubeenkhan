@@ -19,7 +19,7 @@
 
 
 ## About Me
-+ I am a Production Head at **[SkySoftTech](https://skysofttech.net/)** 🚀
++ Head Of Production at **[SkySoftTech](https://skysofttech.net/)** 🚀
 + I also have experience in Python , Php , Full Stack Applications , Data Engineering , Trading Indicators ⚡
 + Web 3.0 enthusiast 🌐
 
